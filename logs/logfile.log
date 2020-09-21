@@ -1,0 +1,39 @@
+INFO  | 2020-09-19 15:05:32 | [main] javapractice.App (App.java:16) - Hello World Will Be Printed On Info
+WARN  | 2020-09-19 15:05:32 | [main] javapractice.App (App.java:17) - Hello World Will Be Printed On Warn
+ERROR | 2020-09-19 15:05:32 | [main] javapractice.App (App.java:18) - Hello World Will Be Printed On Error
+FATAL | 2020-09-19 15:05:32 | [main] javapractice.App (App.java:19) - Hello World Will Be Printed On Fatal
+INFO  | 2020-09-19 15:05:32 | [main] javapractice.App (App.java:20) - Appending string: Hello World.
+INFO  | 2020-09-19 15:21:34 | [main] javapractice.App (App.java:16) - Hello World Will Be Printed On Info
+WARN  | 2020-09-19 15:21:34 | [main] javapractice.App (App.java:17) - Hello World Will Be Printed On Warn
+ERROR | 2020-09-19 15:21:34 | [main] javapractice.App (App.java:18) - Hello World Will Be Printed On Error
+FATAL | 2020-09-19 15:21:34 | [main] javapractice.App (App.java:19) - Hello World Will Be Printed On Fatal
+INFO  | 2020-09-19 15:21:34 | [main] javapractice.App (App.java:20) - Appending string: Hello World.
+INFO  | 2020-09-19 15:21:34 | [main] javapractice.App (App.java:16) - Hello World Will Be Printed On Info
+WARN  | 2020-09-19 15:21:34 | [main] javapractice.App (App.java:17) - Hello World Will Be Printed On Warn
+ERROR | 2020-09-19 15:21:34 | [main] javapractice.App (App.java:18) - Hello World Will Be Printed On Error
+FATAL | 2020-09-19 15:21:34 | [main] javapractice.App (App.java:19) - Hello World Will Be Printed On Fatal
+INFO  | 2020-09-19 15:21:34 | [main] javapractice.App (App.java:20) - Appending string: Hello World.
+DEBUG | 2020-09-19 15:22:17 | [main] javapractice.App (App.java:15) - Hello World Will Be Printed On Debug
+INFO  | 2020-09-19 15:22:17 | [main] javapractice.App (App.java:16) - Hello World Will Be Printed On Info
+WARN  | 2020-09-19 15:22:17 | [main] javapractice.App (App.java:17) - Hello World Will Be Printed On Warn
+ERROR | 2020-09-19 15:22:17 | [main] javapractice.App (App.java:18) - Hello World Will Be Printed On Error
+FATAL | 2020-09-19 15:22:17 | [main] javapractice.App (App.java:19) - Hello World Will Be Printed On Fatal
+INFO  | 2020-09-19 15:22:17 | [main] javapractice.App (App.java:20) - Appending string: Hello World.
+DEBUG | 2020-09-19 15:22:42 | [main] javapractice.App (App.java:15) - Hello World Will Be Printed On Debug
+INFO  | 2020-09-19 15:22:42 | [main] javapractice.App (App.java:16) - Hello World Will Be Printed On Info
+WARN  | 2020-09-19 15:22:42 | [main] javapractice.App (App.java:17) - Hello World Will Be Printed On Warn
+ERROR | 2020-09-19 15:22:42 | [main] javapractice.App (App.java:18) - Hello World Will Be Printed On Error
+FATAL | 2020-09-19 15:22:42 | [main] javapractice.App (App.java:19) - Hello World Will Be Printed On Fatal
+INFO  | 2020-09-19 15:22:42 | [main] javapractice.App (App.java:20) - Appending string: Hello World.
+INFO  | 2020-09-19 15:25:15 | [main] javapractice.App (App.java:16) - Hello World Will Be Printed On Info
+WARN  | 2020-09-19 15:25:15 | [main] javapractice.App (App.java:17) - Hello World Will Be Printed On Warn
+ERROR | 2020-09-19 15:25:15 | [main] javapractice.App (App.java:18) - Hello World Will Be Printed On Error
+FATAL | 2020-09-19 15:25:15 | [main] javapractice.App (App.java:19) - Hello World Will Be Printed On Fatal
+INFO  | 2020-09-19 15:25:15 | [main] javapractice.App (App.java:20) - Appending string: Hello World.
+DEBUG | 2020-09-19 15:28:48 | [main] javapractice.App (App.java:15) - Hello World Will Be Printed On Debug
+INFO  | 2020-09-19 15:28:48 | [main] javapractice.App (App.java:16) - Hello World Will Be Printed On Info
+WARN  | 2020-09-19 15:28:48 | [main] javapractice.App (App.java:17) - Hello World Will Be Printed On Warn
+ERROR | 2020-09-19 15:28:48 | [main] javapractice.App (App.java:18) - Hello World Will Be Printed On Error
+FATAL | 2020-09-19 15:28:48 | [main] javapractice.App (App.java:19) - Hello World Will Be Printed On Fatal
+INFO  | 2020-09-19 15:28:48 | [main] javapractice.App (App.java:20) - Appending string: Hello World.
+INFO  | 2020-09-21 09:27:38 | [main] javapractice.App (App.java:29) - The sum of numbers 2 and 1 = 3
