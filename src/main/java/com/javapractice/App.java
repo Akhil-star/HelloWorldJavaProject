@@ -19,13 +19,13 @@ public class App
         System.out.println("Enter number2");
         int b=sc.nextInt();
         
-        add2Numbers(a,b);
+        mul2Numbers(a,b);
         
         
         
     }
-    private static void add2Numbers(int a,int b) {
-    	long sum=a+b;
-    	LOG.info("The sum of numbers "+a+" and "+b+" = "+sum);
+    private static void mul2Numbers(int a,int b) {
+    	long mul=a*b;
+    	LOG.info("The mul of numbers "+a+" and "+b+" = "+mul);
     }
 }
